@@ -1,6 +1,5 @@
-# Overzicht lesmateriaal en oefenopdrachten leerlijn front end
-
-Voorbereiding: maak een gebruikersnaam aan op GitHub!
+# Overzicht lesmateriaal en oefenopdrachten
+_**Leerlijn Frontend**_
 
 ## HTML & CSS
 
