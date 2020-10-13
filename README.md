@@ -16,15 +16,19 @@ _**Leerlijn Frontend**_
 * **Bekijken**: `[HTML & CSS] Les 2 - De perikelen van CSS` (video) (video)
 * **Lesopdrachten**: Selectors en het gebruik van Flexbox. Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-selectors-flexbox-base) (op GitHub) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend2/Class%20Materials/HTML%20&%20CSS/frontend-selectors-flexbox-final.zip). 
 
+### GIT Workshop
+* **Voorbereiding**: maak een GitHub gebruikersnaam aan
+* **Bekijken**: [GIT] Workshop (video)
+
 ### Les 3 en 4
 * **Voorbereiding**: lees hoofdstukken 10 t/m 12 op EdHub
 * **Voorbereiding opdrachten**:
     * Maak mini-opdracht 10.1 op EdHub (baseproject)
-    * Maak opdracht 10.5 op EdHub (baseproject). De uitwerkingen vind je in het base project voor de [transitie-opdracht](https://github.com/hogeschoolnovi/frontend-grid-transition-base), omdat we het hamburger menu daar gaan animeren.
+    * Maak opdracht 10.5 op EdHub (baseproject). De uitwerkingen vind je in het base project voor de [transitie-opdracht van les 4](https://github.com/hogeschoolnovi/frontend-grid-transition-base), omdat we het hamburger menu daar gaan animeren.
 * **Bekijken**:
     * `[HTML & CSS] Les 3 - CSS Grid` (video)
     * `[HTML & CSS] Les 4 - Psuedo elementen en transities` (video)
-* **Lesopdrachten**: Gebruik van pseudo-elementen en transities (les 3) en CSS Grid (les 4). Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base) (op GitHub) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend2/Class%20Materials/HTML%20&%20CSS/frontend-grid-transition-final.zip). 
+* **Lesopdrachten**: Oefenen met CSS Grid (les 3) en pseudo-elementen en transities (les 4). Bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-grid-transition-base) (op GitHub) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend2/Class%20Materials/HTML%20&%20CSS/frontend-grid-transition-final.zip). 
 
 
 > Extra oefenmateriaal Flexbox en grid: bekijk hier het [base project](https://github.com/hogeschoolnovi/frontend-html-css-extra-exercise-base) en hier de [uitwerkingen](https://noviuniversity.sharepoint.com/sites/Frontend2/Class%20Materials/HTML%20&%20CSS/frontend-html-css-extra-exercises-final.zip).
