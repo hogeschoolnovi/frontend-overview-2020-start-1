@@ -59,11 +59,21 @@ _**Leerlijn Frontend**_
 * **Voorbereiding opdrachten**:
     * Maak opdracht 5.8 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/frontend-javascript-edhub-array-methods) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
 * **Bekijken**: `[JAVASCRIPT] Les 3 - Arrays en de DOM` ([video](https://web.microsoftstream.com/video/4549aa25-2732-4ed2-a32c-63b78bcd9ccf))
-* **Lesopdrachten**: Tech It Easy [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy) (_master_ branch) 
+* **Lesopdrachten**: Tech It Easy [base project](https://github.com/hogeschoolnovi/frontend-javascript-tech-it-easy) (_master_ branch) en uitwerkingen (_uitwerkingen_ branch)
 
 ### Les 4 & 5
 * **Voorbereiding**: lees hoofdstuk 6
 * **Voorbereiding opdrachten**:
     * Maak opdracht 6.4 op EdHub. Op GitHub vind je het [base project](https://github.com/hogeschoolnovi/javascript-edhub-form-validation) (_master_ branch) en ook de uitwerkingen (_uitwerkingen_ branch)
-* **Bekijken**: `--`
-* **Lesopdrachten**: `--`
+* **Bekijken**:
+   * `[JAVASCRIPT] Les 4 - AJAX` ([video](https://web.microsoftstream.com/video/5311711a-b7b2-4ebd-ad65-1af0ed93a544))
+   * `[JAVASCRIPT] Les 5 - Country Information App (begeleid werken)` ([video](https://web.microsoftstream.com/video/bfbd4a8f-e5fc-4fb0-b738-3e8f90cae199))
+* **Lesopdrachten**: Country Information App [base project](https://github.com/hogeschoolnovi/frontend-country-information) (_master_ branch) ook de uitwerkingen (_uitwerkingen_ branch)
+
+### Les 6 en 7
+* **Voorbereiding**: lees hoofdstuk 7
+* **Voorbereiding opdrachten**: n.v.t.
+* **Bekijken**:
+   * `[JAVASCRIPT] Les 6 - Switch & Destructuring` ([video](https://web.microsoftstream.com/video/b29265c4-bbbc-4b83-b5dc-5230f3c22ffc))
+   * `[JAVASCRIPT] Les 7 - Country Information App 2 (begeleid werken)` ([video](https://web.microsoftstream.com/video/fca67552-d169-458e-bc2b-7e17097790a5))
+* **Lesopdrachten**: Country Information [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2) (_master_ branch) ook de uitwerkingen (_uitwerkingen_ branch)
