@@ -76,4 +76,6 @@ _**Leerlijn Frontend**_
 * **Bekijken**:
    * `[JAVASCRIPT] Les 6 - Switch & Destructuring` ([video](https://web.microsoftstream.com/video/b29265c4-bbbc-4b83-b5dc-5230f3c22ffc))
    * `[JAVASCRIPT] Les 7 - Country Information App 2 (begeleid werken)` ([video](https://web.microsoftstream.com/video/fca67552-d169-458e-bc2b-7e17097790a5))
-* **Lesopdrachten**: Country Information [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2) (_master_ branch) ook de uitwerkingen (_uitwerkingen_ branch)
+* **Lesopdrachten**:
+   * Switch Statements & Destructuring [base project](https://github.com/hogeschoolnovi/frontend-javascript-switch-destructuring) (_master_ branch) ook de uitwerkingen (_uitwerkingen_ branch)
+   * Country Information [base project](https://github.com/hogeschoolnovi/frontend-javascript-country-information-part2) (_master_ branch) ook de uitwerkingen (_uitwerkingen_ branch)
